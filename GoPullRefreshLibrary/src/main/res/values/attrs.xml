@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="PullRefresh">
+        <attr name="header_layout" format="reference"/>
+        <attr name="footer_layout" format="reference"/>
+    </declare-styleable>
+    
+</resources>
